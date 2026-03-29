@@ -20,23 +20,18 @@
 
 #### 🌟 精选项目
 
-<a href="https://github.com/AriesOxO/piz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AriesOxO&repo=piz&theme=tokyonight" />
-</a>
-<a href="https://github.com/AriesOxO/fnos-fan-control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AriesOxO&repo=fnos-fan-control&theme=tokyonight" />
-</a>
+| 项目 | 描述 | 语言 |
+|------|------|------|
+| [**piz**](https://github.com/AriesOxO/piz) ⭐29 | 用自然语言描述你想做什么，piz 帮你翻译成正确的 shell 命令 | Rust |
+| [**fnos-fan-control**](https://github.com/AriesOxO/fnos-fan-control) | 飞牛NAS (fnOS) 风扇控制器 — 自定义温控曲线、多模式控制、Web 管理界面 | Python |
 
 ---
 
 #### 📊 GitHub 统计
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AriesOxO&show_icons=true&theme=tokyonight" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriesOxO&layout=compact&theme=tokyonight" />
-</p>
+![AriesOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriesOxO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriesOxO&layout=compact&theme=tokyonight)
 
 ---
 
