@@ -10,11 +10,19 @@
 
 #### 🛠 技术栈
 
+**后端**
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust)
+![Go](https://img.shields.io/badge/-Go-000?style=flat-square&logo=go)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c)
+
+**前端**
+![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat-square&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
 
 ---
 
