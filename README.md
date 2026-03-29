@@ -29,9 +29,9 @@
 
 #### 📊 GitHub 统计
 
-![AriesOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriesOxO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriesOxO&layout=compact&theme=tokyonight)
+![公开仓库](https://img.shields.io/badge/公开仓库-35-blue?style=flat-square)
+![总Stars](https://img.shields.io/badge/总Stars-31-yellow?style=flat-square)
+![年度提交](https://img.shields.io/badge/年度提交-141-green?style=flat-square)
 
 ---
 
