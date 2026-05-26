@@ -34,9 +34,9 @@
 
 #### 📊 GitHub 统计
 
-![AriesOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriesOxO&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![AriesOxO's GitHub stats](https://github-readme-stats-beta-eight-21.vercel.app/api?username=AriesOxO&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriesOxO&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Top Langs](https://github-readme-stats-beta-eight-21.vercel.app/api/top-langs/?username=AriesOxO&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AriesOxO&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
