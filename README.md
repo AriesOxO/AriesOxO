@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome%2C+welcome%2C+warm+welcome%2C+meow+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome%2C+welcome%2C+warm+welcome%2C+meow+)](https://readme-typing-svg.demolab.com)
 
-独立开发者 / 工具控 / 猫奴。喜欢用代码解决日常痛点，偏爱 CLI 工具和自动化。
+独立开发者 · 全栈工具人 · AI 探索者。热衷用 AI + 自动化消灭重复劳动。摄影 / 阅读 / 运动 / 数码控。
 
 📝 博客：[ariesoxo.github.io](https://ariesoxo.github.io/)
 
@@ -12,35 +12,37 @@
 
 **后端**
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
 ![Go](https://img.shields.io/badge/-Go-000?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c)
 
 **前端**
 ![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat-square&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
 
 ---
 
 #### 🌟 精选项目
 
-| 项目 | 描述 | 语言 |
-|------|------|------|
-| [**piz**](https://github.com/AriesOxO/piz) ⭐29 | 用自然语言描述你想做什么，piz 帮你翻译成正确的 shell 命令 | Rust |
-| [**fnos-fan-control**](https://github.com/AriesOxO/fnos-fan-control) | 飞牛NAS (fnOS) 风扇控制器 — 自定义温控曲线、多模式控制、Web 管理界面 | Python |
+[![piz](https://github-readme-stats.vercel.app/api/pin/?username=AriesOxO&repo=piz&theme=dark)](https://github.com/AriesOxO/piz)
+[![fnos-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=AriesOxO&repo=fnos-fan-control&theme=dark)](https://github.com/AriesOxO/fnos-fan-control)
 
 ---
 
 #### 📊 GitHub 统计
 
-![公开仓库](https://img.shields.io/badge/公开仓库-35-blue?style=flat-square)
-![总Stars](https://img.shields.io/badge/总Stars-31-yellow?style=flat-square)
-![年度提交](https://img.shields.io/badge/年度提交-141-green?style=flat-square)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AriesOxO&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriesOxO&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriesOxO&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-![:meow](https://count.getloli.com/get/@:meow)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AriesOxO&style=flat-square&color=blue" alt="profile views" />
+</p>
