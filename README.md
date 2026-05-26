@@ -25,21 +25,20 @@
 
 #### 🌟 精选项目
 
-[![piz](https://github-readme-stats.vercel.app/api/pin/?username=AriesOxO&repo=piz&theme=dark)](https://github.com/AriesOxO/piz)
-[![fnos-fan-control](https://github-readme-stats.vercel.app/api/pin/?username=AriesOxO&repo=fnos-fan-control&theme=dark)](https://github.com/AriesOxO/fnos-fan-control)
+| 项目 | 描述 | Stars |
+|------|------|-------|
+| [**piz**](https://github.com/AriesOxO/piz) | 智能终端命令助手 — 用自然语言生成 Shell 命令，支持多 AI 后端 | ![Stars](https://img.shields.io/github/stars/AriesOxO/piz?style=flat-square) |
+| [**fnos-fan-control**](https://github.com/AriesOxO/fnos-fan-control) | 飞牛NAS 风扇控制器 — 自定义温控曲线、Web 管理界面 | ![Stars](https://img.shields.io/github/stars/AriesOxO/fnos-fan-control?style=flat-square) |
 
 ---
 
 #### 📊 GitHub 统计
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriesOxO&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriesOxO&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" />
-</p>
+![AriesOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriesOxO&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriesOxO&theme=dark&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriesOxO&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AriesOxO&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
